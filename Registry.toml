@@ -3,4 +3,5 @@ uuid = "e6653020-0346-4f22-a76b-1302be46dfb9"
 repo = "https://github.com/SebRollen/TestRegistry"
 
 [packages]
+05aa9ed2-2a77-481f-860f-a10d46f1a565 = { name = "PackageA", path = "P/PackageA" }
 50d30c41-5abf-4d4a-b8c5-d3c859c41631 = { name = "TestRepo", path = "T/TestRepo" }

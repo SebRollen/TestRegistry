@@ -1,0 +1,4 @@
+name = "PackageA"
+uuid = "05aa9ed2-2a77-481f-860f-a10d46f1a565"
+repo = "https://github.com/SebRollen/TestRepo.jl.git"
+subdir = "PackageA"
