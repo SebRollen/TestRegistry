@@ -5,3 +5,4 @@ repo = "https://github.com/SebRollen/TestRegistry"
 [packages]
 05aa9ed2-2a77-481f-860f-a10d46f1a565 = { name = "PackageA", path = "P/PackageA" }
 50d30c41-5abf-4d4a-b8c5-d3c859c41631 = { name = "TestRepo", path = "T/TestRepo" }
+9941fbbb-7f72-459b-a27f-e3ec3555dcc9 = { name = "PackageB", path = "P/PackageB" }
