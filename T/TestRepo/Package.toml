@@ -1,0 +1,3 @@
+name = "TestRepo"
+uuid = "50d30c41-5abf-4d4a-b8c5-d3c859c41631"
+repo = "https://github.com/SebRollen/TestRepo.jl.git"
